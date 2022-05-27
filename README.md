@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/Q9n0lGB.png" alt="PC_Info_Logo">
 # PC_Info
 Tool used to generate PC Info and test network issues, by simply clicking a .bat file.
 
@@ -11,3 +12,15 @@ Enjoy,
 JoeyFun
 
 PS: If you have any comments, questions or concerns, please don't hesitate to comment.
+
+Network Connectivity Passed and PC Info is now displayed
+========================================================
+<img src="https://i.imgur.com/EBRaKIx.png" alt="Network Connectivity Passed and PC Info is now displayed">
+
+Network Connectivity Failed no Internet
+=======================================
+<img src="https://i.imgur.com/xYPhj6Q.png" alt="Network Connectivity Failed no Internet">
+
+Network Connectivity Failed (Primary DNS Failed)
+================================================
+<img src="https://i.imgur.com/EiHwwUv.png" alt="Network Connectivity Failed (Primary DNS Failed)">
