@@ -1,5 +1,5 @@
 # PC_Info
-Tool used to generate PC Info by simply clicking a .bat or .exe file.
+Tool used to generate PC Info and test network issues, by simply clicking a .bat file.
 
 The best way to run this script would be to store it in a specific directory and have a shortcut link on the desktop that someone can click to launch it. Also I'd recommend you have the shortcut make the screen go fullscreen so they can see the entire output.
 
